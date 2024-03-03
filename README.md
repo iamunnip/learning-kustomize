@@ -1,2 +1,1 @@
-# learning-kustomize
 Learning Kustomize
